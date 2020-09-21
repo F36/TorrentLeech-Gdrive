@@ -50,7 +50,7 @@ f)Then tap 👇👇
 
 # Revived
 
- [![Deploy](https://dashboard.heroku.com/new)](https://heroku.com/deploy) #Revived 😕 #Dead
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
