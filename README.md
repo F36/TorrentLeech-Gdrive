@@ -48,7 +48,7 @@ e)It should look like `app.json`. 🎉
 
 f)Then tap 👇👇
 
-##Revived
+###Revived
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived 😕 #Dead
 
